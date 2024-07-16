@@ -18,7 +18,7 @@
 <p align="left">
             <a href="https://laravel.com/" target="_blank" rel="noreferrer">
                 <img
-                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7p7xDZNood0BXe_5aR6pkFwS0ENdCcsiDTg&s"
+                    src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png"
                     alt="laravel"
                     width="40"
                     height="40"
