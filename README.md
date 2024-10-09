@@ -11,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/duy-khuất-văn-a268182ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duy-khuất-văn-a268182ba" height="30" width="40" /></a>
 <a href="https://zalo.me/0966034803" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Icon_of_Zalo.svg/2048px-Icon_of_Zalo.svg.png" alt="0966034803" height="30" width="30" /></a>
 <a href="https://www.facebook.com/Duyphan04" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/476/original/facebook-logo-facebook-icon-transparent-free-png.png" alt="Duyphan04" height="50" width="50" /></a>
 </p>
